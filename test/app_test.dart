@@ -1,9 +1,9 @@
 // #docregion initial
 @TestOn('browser')
 import 'package:angular_test/angular_test.dart';
-import 'package:angular_tour_of_heroes/app_component.dart';
+import 'package:DHMO/app_component.dart';
 // #docregion test-bed-and-fixture
-import 'package:angular_tour_of_heroes/app_component.template.dart' as ng;
+import 'package:DHMO/app_component.template.dart' as ng;
 // #enddocregion test-bed-and-fixture
 import 'package:test/test.dart';
 // #docregion test-bed-and-fixture
